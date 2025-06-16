@@ -1,1 +1,0 @@
-hotari test linux
