@@ -1,0 +1,3 @@
+This is a dup() demonstration
+NEWFD=1
+This is the output to stdout
